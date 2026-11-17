@@ -1,0 +1,563 @@
+{
+ "bulletins": {
+  "2019-03": {
+   "dff": {
+    "CRW": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB1": {
+     "China": "2017-10-01",
+     "India": "2017-10-01",
+     "Mexico": "2018-06-01",
+     "Philippines": "2018-06-01",
+     "ROW": "2018-06-01"
+    },
+    "EB2": {
+     "China": "2016-05-01",
+     "India": "2009-05-22",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB3": {
+     "China": "2016-01-01",
+     "India": "2010-04-01",
+     "Mexico": "C",
+     "Philippines": "2018-03-01",
+     "ROW": "C"
+    },
+    "EB4": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-UNRESERVED": {
+     "China": "2014-10-01",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EW3": {
+     "China": "2008-06-01",
+     "India": "2010-04-01",
+     "Mexico": "C",
+     "Philippines": "2018-03-01",
+     "ROW": "C"
+    }
+   },
+   "fad": {
+    "CRW": {
+     "China": "U",
+     "India": "U",
+     "Mexico": "U",
+     "Philippines": "U",
+     "ROW": "U"
+    },
+    "EB1": {
+     "China": "2017-02-22",
+     "India": "2017-02-22",
+     "Mexico": "2018-01-01",
+     "Philippines": "2018-01-01",
+     "ROW": "2018-01-01"
+    },
+    "EB2": {
+     "China": "2016-01-01",
+     "India": "2009-04-09",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB3": {
+     "China": "2015-07-08",
+     "India": "2009-05-22",
+     "Mexico": "C",
+     "Philippines": "2017-12-01",
+     "ROW": "C"
+    },
+    "EB4": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "2018-01-01",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-UNRESERVED": {
+     "China": "2014-09-08",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EW3": {
+     "China": "2007-08-15",
+     "India": "2009-05-22",
+     "Mexico": "C",
+     "Philippines": "2017-12-01",
+     "ROW": "C"
+    }
+   },
+   "sources": {
+    "dff": "imported file wb2.html",
+    "fad": "imported file wb2.html"
+   }
+  },
+  "2026-07": {
+   "dff": {
+    "CRW": {
+     "China": "2023-01-01",
+     "India": "2023-01-01",
+     "Mexico": "2023-01-01",
+     "Philippines": "2023-01-01",
+     "ROW": "2023-01-01"
+    },
+    "EB1": {
+     "China": "2023-12-01",
+     "India": "2023-12-01",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB2": {
+     "China": "2022-01-01",
+     "India": "2015-01-15",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB3": {
+     "China": "2022-01-01",
+     "India": "2015-01-15",
+     "Mexico": "C",
+     "Philippines": "2024-01-01",
+     "ROW": "C"
+    },
+    "EB4": {
+     "China": "2023-01-01",
+     "India": "2023-01-01",
+     "Mexico": "2023-01-01",
+     "Philippines": "2023-01-01",
+     "ROW": "2023-01-01"
+    },
+    "EB5-HIGH-UNEMPLOYMENT": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-INFRASTRUCTURE": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-RURAL": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-UNRESERVED": {
+     "China": "2017-03-01",
+     "India": "2024-05-01",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EW3": {
+     "China": "2019-10-01",
+     "India": "2015-01-15",
+     "Mexico": "2022-08-01",
+     "Philippines": "2022-08-01",
+     "ROW": "2022-08-01"
+    }
+   },
+   "fad": {
+    "CRW": {
+     "China": "2022-09-15",
+     "India": "2022-09-15",
+     "Mexico": "2022-09-15",
+     "Philippines": "2022-09-15",
+     "ROW": "2022-09-15"
+    },
+    "EB1": {
+     "China": "2023-06-01",
+     "India": "2022-10-15",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB2": {
+     "China": "2021-09-01",
+     "India": "U",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB3": {
+     "China": "2021-12-22",
+     "India": "2014-01-01",
+     "Mexico": "2024-08-01",
+     "Philippines": "2023-08-01",
+     "ROW": "2024-08-01"
+    },
+    "EB4": {
+     "China": "2022-09-15",
+     "India": "2022-09-15",
+     "Mexico": "2022-09-15",
+     "Philippines": "2022-09-15",
+     "ROW": "2022-09-15"
+    },
+    "EB5-HIGH-UNEMPLOYMENT": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-INFRASTRUCTURE": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-RURAL": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-UNRESERVED": {
+     "China": "2016-12-01",
+     "India": "U",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EW3": {
+     "China": "2019-04-01",
+     "India": "2014-01-01",
+     "Mexico": "2022-03-01",
+     "Philippines": "2021-12-01",
+     "ROW": "2022-03-01"
+    }
+   },
+   "sources": {
+    "dff": "imported file wbx.html",
+    "fad": "imported file wbx.html"
+   }
+  },
+  "2026-09": {
+   "dff": {
+    "CRW": {
+     "China": "2023-01-01",
+     "India": "2023-01-01",
+     "Mexico": "2023-01-01",
+     "Philippines": "2023-01-01",
+     "ROW": "2023-01-01"
+    },
+    "EB1": {
+     "China": "2023-12-01",
+     "India": "2023-12-01",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB2": {
+     "China": "2022-01-01",
+     "India": "2015-01-15",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB3": {
+     "China": "2022-01-08",
+     "India": "2015-01-15",
+     "Mexico": "C",
+     "Philippines": "2024-01-01",
+     "ROW": "C"
+    },
+    "EB4": {
+     "China": "2023-01-01",
+     "India": "2023-01-01",
+     "Mexico": "2023-01-01",
+     "Philippines": "2023-01-01",
+     "ROW": "2023-01-01"
+    },
+    "EB5-HIGH-UNEMPLOYMENT": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-INFRASTRUCTURE": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-RURAL": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-UNRESERVED": {
+     "China": "2017-03-01",
+     "India": "2024-05-01",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EW3": {
+     "China": "2019-10-01",
+     "India": "2015-01-15",
+     "Mexico": "2022-08-01",
+     "Philippines": "2022-08-01",
+     "ROW": "2022-08-01"
+    }
+   },
+   "fad": {
+    "CRW": {
+     "China": "2022-12-15",
+     "India": "2022-12-15",
+     "Mexico": "2022-12-15",
+     "Philippines": "2022-12-15",
+     "ROW": "2022-12-15"
+    },
+    "EB1": {
+     "China": "2023-07-01",
+     "India": "2022-10-15",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB2": {
+     "China": "2021-09-01",
+     "India": "U",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB3": {
+     "China": "2022-01-01",
+     "India": "2014-01-01",
+     "Mexico": "2024-09-01",
+     "Philippines": "2023-08-01",
+     "ROW": "2024-09-01"
+    },
+    "EB4": {
+     "China": "2022-12-15",
+     "India": "2022-12-15",
+     "Mexico": "2022-12-15",
+     "Philippines": "2022-12-15",
+     "ROW": "2022-12-15"
+    },
+    "EB5-HIGH-UNEMPLOYMENT": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-INFRASTRUCTURE": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-RURAL": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-UNRESERVED": {
+     "China": "2016-12-01",
+     "India": "U",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EW3": {
+     "China": "2019-05-01",
+     "India": "2014-01-01",
+     "Mexico": "2022-04-01",
+     "Philippines": "2021-12-01",
+     "ROW": "2022-04-01"
+    }
+   },
+   "sources": {
+    "dff": "State Department PDF visabulletin_September2026.pdf",
+    "fad": "State Department PDF visabulletin_September2026.pdf"
+   }
+  },
+  "2026-11": {
+   "dff": {
+    "CRW": {
+     "China": "2025-01-01",
+     "India": "2025-01-01",
+     "Mexico": "2025-01-01",
+     "Philippines": "2025-01-01",
+     "ROW": "2025-01-01"
+    },
+    "EB1": {
+     "China": "2024-07-01",
+     "India": "2024-07-01",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB2": {
+     "China": "2023-01-01",
+     "India": "2015-01-15",
+     "Mexico": "2026-03-15",
+     "Philippines": "2026-03-15",
+     "ROW": "2026-03-15"
+    },
+    "EB3": {
+     "China": "2024-04-01",
+     "India": "2015-01-15",
+     "Mexico": "2024-08-01",
+     "Philippines": "2024-01-01",
+     "ROW": "2024-08-01"
+    },
+    "EB4": {
+     "China": "2025-01-01",
+     "India": "2025-01-01",
+     "Mexico": "2025-01-01",
+     "Philippines": "2025-01-01",
+     "ROW": "2025-01-01"
+    },
+    "EB5-HIGH-UNEMPLOYMENT": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-INFRASTRUCTURE": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-RURAL": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-UNRESERVED": {
+     "China": "2021-03-01",
+     "India": "2024-05-01",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EW3": {
+     "China": "2020-10-01",
+     "India": "2015-01-15",
+     "Mexico": "2022-07-01",
+     "Philippines": "2022-06-01",
+     "ROW": "2022-07-01"
+    }
+   },
+   "fad": {
+    "CRW": {
+     "China": "2022-12-15",
+     "India": "2022-12-15",
+     "Mexico": "2022-12-15",
+     "Philippines": "2022-12-15",
+     "ROW": "2022-12-15"
+    },
+    "EB1": {
+     "China": "2023-08-01",
+     "India": "2023-02-01",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB2": {
+     "China": "2021-10-01",
+     "India": "2013-11-01",
+     "Mexico": "2025-04-01",
+     "Philippines": "2025-04-01",
+     "ROW": "2025-04-01"
+    },
+    "EB3": {
+     "China": "2022-01-22",
+     "India": "2014-01-22",
+     "Mexico": "2024-06-15",
+     "Philippines": "2023-08-15",
+     "ROW": "2024-06-15"
+    },
+    "EB4": {
+     "China": "2022-12-15",
+     "India": "2022-12-15",
+     "Mexico": "2022-12-15",
+     "Philippines": "2022-12-15",
+     "ROW": "2022-12-15"
+    },
+    "EB5-HIGH-UNEMPLOYMENT": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-INFRASTRUCTURE": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-RURAL": {
+     "China": "C",
+     "India": "C",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EB5-UNRESERVED": {
+     "China": "2016-12-01",
+     "India": "2023-12-01",
+     "Mexico": "C",
+     "Philippines": "C",
+     "ROW": "C"
+    },
+    "EW3": {
+     "China": "2019-10-01",
+     "India": "2014-01-22",
+     "Mexico": "2022-06-01",
+     "Philippines": "2022-01-01",
+     "ROW": "2022-06-01"
+    }
+   },
+   "sources": {
+    "dff": "State Department PDF visabulletin_November2026.pdf",
+    "fad": "State Department PDF visabulletin_November2026.pdf"
+   }
+  }
+ },
+ "updated": "2026-11-16"
+}
